@@ -35,3 +35,7 @@ Also, and not yet converted (for dramatic effect) is attached ["mpy.py"](mpy.py)
 ## AI Disclosure
 
 Most of this codebase was assisted in creation by using artificial intelligence tools. Originally, the example script was AI generated, and then a human (me) painstakingly sat through converting it to something that could be one-lined (["formatted.py"](formatted.py)). Then, I outlined the process and the guide I wanted (not attached here), and then made a very rudimentary auto-converter. After that, I passed it on to AI which converted it into the full ["oneline_transform.py"](oneline_transform.py) you see here, with all of the features it has. The file ["_rt.py"](_rt.py) was also AI generated as a helper script for that, giving some much needed functionality for the full one-line conversion. Finally, all but the last two sections of this README were created using AI. If you have issues with the use of these tools, just don't use this codebase. Anyways, for those of you who are fine with it, enjoy!
+
+## Edit
+
+Ok I just realized I could've totally used the walrus operator, :=, to make it a lot cleaner, maybe I'll get back to that, but it's unlikely.
